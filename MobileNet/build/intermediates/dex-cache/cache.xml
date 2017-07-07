@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_00f047c6757923b24ae8645d8302fb7c5bb7d5eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-core\0.4.2\a4c8ce09be6ec90479be74290e381de4288c9569\jxmpp-core-0.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a4c8ce09be6ec90479be74290e381de4288c9569">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\jxmpp-core-0.4.2_4433dd0ae494134a276af1785ddaf5ce93c568b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.2_bf4e62074ccfbd4b7dbdbf6cc1de76d4526c555d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_bcba8c5e2356c4661addd739e867d135103ba1e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_b4e922d433a1f6c1948d8e1f49bce0bcbed331f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_be78eaa8f2e7429094c0244b5db1eb70bf59db73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_74e0b05848b0f35b66e8341452303f6e166097ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1be56b8b422c85ae60ba301f173f1a54e63a6393">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3e163d9cfff9dba5eff4547a0a2098318dfec7e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_c8f8afa76e0836ef23ecc83083ca0fe9b5be8fa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6dbfab49a7424dd1ea64eae56b66e5851fdec48">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_841593808642ac1cc049470322750215d04e2f1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_01605ea9a42c92b402dc34e92bb9079f2ebb9367\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_19e8b3f2aa9c8c3371a719a9bd5b8f6b444fd821\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_dbe2d53ff2053b6ef69e938ca2c0ebf714637df2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-core\3.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="810a8b975520117891c722e6ac6931efeb15c963">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.quickblox-quickblox-android-sdk-core-3.3.0_151414bb492aaa7b7fb86762962cf6b9e0779120\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_2a3c2a9ee90e5cb816a564f6345549ce3f383dbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_5f797bbc19ee1d3d93a2254c9aaa7b2397f95954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_9559b146692952d52438ba3bcb0a0a8a197777a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.9\87372d9e2323313bec24b09a325bfea8ae0eb867\aspectjrt-1.8.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="87372d9e2323313bec24b09a325bfea8ae0eb867">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\aspectjrt-1.8.9_f393fd3ae4bca93f2f4bee9f660a0a6b5c5667b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.github.lguipeng\BubbleView\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49cfe618ead4198c63130e6f6c82e1dd213af3b3">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.lguipeng-BubbleView-1.0.1_524d24561c7216a8361cb3e88a2d5f02ee200748\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c34033916a3e8ac3e4a4685fc61ac9fe0a041459\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_3459d46f19605499ebcd304c6fb336734ad49068\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_be4186c0118c2607914973294ed79f65af8d0450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_7fa06cfb7772eff8a23580c689a5631bfa711262\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_7711a8a4507ae1dd799f6f8905ca510d3912e30e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\.gradle\caches\modules-2\files-2.1\de.measite.minidns\minidns\0.1.7\993582d1455b93a5723d2af4b39d8679735b3550\minidns-0.1.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\minidns-0.1.7_18f6d2b996664ec9a437923236b29158d20507b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-chat\3.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="28dd0f23d11c762c64809917057776173de5c3f1">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.quickblox-quickblox-android-sdk-chat-3.3.0_23d6214d0a4ce32fa3ab3ad7d68fe89c2520627d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-util-cache\0.4.2\4aa590f2a44d49444dcd3bb082017bf0b46f2ff7\jxmpp-util-cache-0.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4aa590f2a44d49444dcd3bb082017bf0b46f2ff7">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\jxmpp-util-cache-0.4.2_9f71113f2737219fcec972005f302de4021ffb62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_0cb757df09e037b15b9129875e1a40b4f5c1294f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_0a8238274afde0a2c521e9292bc752dc684862b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Kang\Desktop\MobileNet-master\MobileNet-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_16a69b8cbe5e7fcc167dde16152febcd3e133df3\classes.dex" />
+    </item>
+
+</items>
